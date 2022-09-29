@@ -1,2 +1,7 @@
-# ABAP-EXERCISM-My_Solutions
- My solutions to Exercism's SAP ABAP exercises.
+# ABAP EXERCISM My Solutions
+
+My solutions to [Exercism](https://exercism.org)'s SAP ABAP exercises.
+
+# Reference
+
+https://github.com/exercism/abap
